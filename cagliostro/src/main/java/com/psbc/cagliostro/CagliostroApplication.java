@@ -1,0 +1,13 @@
+package com.psbc.cagliostro;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CagliostroApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CagliostroApplication.class, args);
+	}
+
+}
